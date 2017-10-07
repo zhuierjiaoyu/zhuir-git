@@ -7,6 +7,7 @@ public class TestJunit {
 	
 	/*
 	 * 求1～10之间的和
+	 * git版本控制工具
 	 */
 	@Test
 	public void qiuHe(){
