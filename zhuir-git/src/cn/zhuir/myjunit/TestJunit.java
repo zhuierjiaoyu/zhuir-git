@@ -6,11 +6,11 @@ import org.junit.Test;
 public class TestJunit {
 	
 	/*
-	 * 求1～10之间的和
-	 * git版本控制工具
+	 * 求1～10之间的和    
 	 */
 	@Test
 	public void qiuHe(){
+		int j = 0;
 		int sum = 0;
 		for(int i=1;i<=10;i++){
 			sum += i;
